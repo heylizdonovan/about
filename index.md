@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome
+Thanks for stopping by! 
 
-You can use the [editor on GitHub](https://github.com/heylizdonovan/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an experienced researcher who loves that moment when patterns emerge and something new is discovered. Over the course of my career, I’ve explored different domains with a diverse set of clients on B2C and B2B products.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, I manage a growing team of researchers where I enjoy the opportunity to connect them with the types of challenges that they're passionate about.
+
+In my free time, you'll find me hiking, reading, or scheming about my next travel adventure.
+
+You can read my articles [here](https://medium.com/@Liz.Donovan) and check out my linkedin here [here](https://www.linkedin.com/in/lrdonovan/)
+
 
 ### Markdown
 
